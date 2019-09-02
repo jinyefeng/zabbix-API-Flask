@@ -7,8 +7,9 @@ This project is not completed right now!
 
 I will update code every month at least.
 
-If you need some function, please contact with me by e-mail.
-
-If you can comment on my code, you also can contact with me.Knowledge is infinite.
-
 Contact: 1575840203@qq.com 
+
+Plan:
+1. Update Mysql template
+2. Add Top10
+3. Web based on jquery and bootstrap show data
