@@ -7,8 +7,6 @@ This project is not completed right now!
 
 I will update code every month at least.
 
-Contact: 1575840203@qq.com 
-
 Plan:
 1. Update Mysql template
 2. Add Top10
