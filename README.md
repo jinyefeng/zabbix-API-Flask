@@ -10,4 +10,4 @@ I will update code every month at least.
 Plan:
 1. Update Mysql template
 2. Add Top10
-3. Web based on jquery and bootstrap show data
+3. Web show data
